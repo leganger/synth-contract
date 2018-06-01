@@ -1,6 +1,7 @@
 *.tar
 *.png
 *.gz
+*.hocr
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
